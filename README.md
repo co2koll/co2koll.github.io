@@ -8,10 +8,11 @@ Lettiska Aranet4 är lite dyr men har fantastisk batteritid (år) och kan koppla
 
 ## Jag vill nörda lite och posta mätningar på webben
 
-Ta en titt här t ex.
+Ta en titt här t ex: https://github.com/co2koll/tfa-airco2ntrol-mini
 
 ## Jag är totalnörd och vill bygga ihop prylar
 
+------
 
 ## Två mätare
 ![TFA mini, högst upp, Moes FB-CO2, nedanför](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/kalib.jpeg)
