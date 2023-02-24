@@ -19,6 +19,10 @@ TFA Dostmann AirCO2ntrol Coach:
 * https://www.pricerunner.se/pl/590-3200141055/Termometrar-Vaederstationer/TFA-Dostmann-31.5009.02-priser
 (coach finns också på Amazon.se)
 
+![Bild från https://nousaerons.fr/aero-score/](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/nous.png)
+
+Bild från https://nousaerons.fr/aero-score/
+
 Det finns många billiga CO2-mätare som måste kalibrera om sig varje eller varannan dag. Det innebär att de måste utsättas för luft som är helt genomventilerad, eller så får man ta mätaren utomhus. Nackdelen med en sådan mätare är att den annars kan visa fel, och det är inte bra om man vill undvika att bli smiittad. Aranet4 och de Dostmann som är nämnda ovan behöver inte frisk luft, utan håller sin kalibrering utan sådant. Det känns tryggare.
 
 ![TFA mini, högst upp, Moes FB-CO2, nedanför](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/kalib.jpeg)
