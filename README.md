@@ -23,7 +23,7 @@ TFA Dostmann AirCO2ntrol Coach:
 
 Bild från https://nousaerons.fr/aero-score/
 
-Det finns många billiga CO2-mätare som måste kalibrera om sig varje eller varannan dag. Det innebär att de måste utsättas för luft som är helt genomventilerad, eller så får man ta mätaren utomhus. Nackdelen med en sådan mätare är att den annars kan visa fel, och det är inte bra om man vill undvika att bli smiittad. Aranet4 och de Dostmann som är nämnda ovan behöver inte frisk luft, utan håller sin kalibrering utan sådant. Det känns tryggare.
+Det finns många billiga CO2-mätare som måste kalibrera om sig varje eller varannan dag. Det innebär att de måste utsättas för luft som är helt genomventilerad, eller så får man ta mätaren utomhus. Nackdelen med en sådan mätare är att den annars kan visa fel, och det är inte bra om man vill undvika att bli smiittad. Aranet4 och de Dostmann som är nämnda ovan behöver inte frisk luft, utan håller sin kalibrering utan sådant. Det känns tryggare t ex om man har mätaren i en lokal som inte vädras helt ut varje dygn eller där folk fins dygnet runt som t ex i ett hem. Det handlar ju också om att undvika smitta här, inte undvika ont i huvudet pga lite muggig luft, så man vill ju att mätaren alltid visar någorlunda rätt.
 
 ![TFA mini, högst upp, Moes FB-CO2, nedanför](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/kalib.jpeg)
 
