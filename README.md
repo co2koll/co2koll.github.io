@@ -34,5 +34,36 @@ Ta en titt här t ex: https://github.com/co2koll/tfa-airco2ntrol-mini
 
 ## Jag är totalnörd och vill bygga ihop prylar
 
+En plattform som verkar populär är ESP32. 
+
+Några länkar till att mäta från olika CO2-sensorer, som Aranet4, TFA Dostmann m fl. Också länkar till sensorer, kort med mera. Ursäkta röran.
+
+* https://github.com/kasparsd/sensor-pilot
+* https://github.com/Anrijs/Aranet4-Python
+* https://gitlab.com/webthings/co2-monitor-adapter
+* https://github.com/MathieuSchopfer/tfa-airco2ntrol-mini
+* https://github.com/schinken/esp8266-co2monitor
+* https://www.hackerspace-bamberg.de/Co2_Monitor
+* https://www.sherbers.de/monitor-co2-concentration-over-time-with-elasticsearch/
+* https://github.com/koenvervloesem/ESPHome-Air-Quality-Monitor
+* https://github.com/unparagoned/cloudtuya
+* https://github.com/PaulAnnekov/tuyaha
+* https://github.com/nalajcie/tuya-sign-hacking
+* https://iotdesignpro.com/projects/iot-based-smart-energy-meter
+* https://hackaday.io/project/5301-reverse-engineering-a-low-cost-usb-co-monitor/log/17909-all-your-base-are-belong-to-us
+* https://github.com/maddindeiss/co2-monitor
+* https://github.com/heinemml/CO2Meter
+* https://github.com/vshmoylov/libholtekco2
+* https://github.com/lnicola/co2mon
+* https://gitlab.com/nobodyinperson/co2monitor
+* https://chrpaul.de/2020/02/carbon-dioxide-monitor.html
+* https://www.mouser.se/new/sensirion/sensirion-scd40/
+* https://www.fierceelectronics.com/components/co2-sensor-accurate-without-self-calibration
+* https://breathesafeair.com/carbon-dioxide-monitors/#Manual_Recalibration
+* https://foosel.net/blog/2022-01-03-tfa-dostmann-meets-esphome/
+* https://www.printables.com/model/119968-airco2ntrol-mini-backplate-with-wemos-d1-mini/comments
+* https://www.co2.click/ecommerce/en/Model-C.html
+* https://www.cnx-software.com/2022/06/27/esp32-board-with-150mbps-4g-lte-modem-also-supports-rs485-can-bus-and-relay-expansion/
+
 ------
 
