@@ -6,6 +6,8 @@ Roller
 
 Lettiska Aranet4 är lite dyr men har fantastisk batteritid (år) och kan kopplas ihop med telefon eller en dator om man vill. Den behöver inte heller kalibreras om.
 
+Man kan köpa den direkt från tillverkaren här: https://shop.aranet.com/europe/product/aranet4-home
+
 ## Jag tycker 2500 kronor är lite dyrt, finns det inget billigare?
 
 De 2500 kronorna kan dock vara väl värda att spendera, istället för att köpa något billigare som man kanske inte blir nöjd med. Men det finns billigare som är stabila och bra. Dostmann har två stycken, Mini och Coach, som ger stabila värden. De kostar 700-900 kronor. Tyvärr har de inget batteri, utan måste drivas från USB. Det kan man ju fixa från en Powerbank. Det finns en Dostmann som har batteri, men recensioner på Amazon klagar på dålig kvalitet och överhettning.
