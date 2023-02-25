@@ -16,7 +16,7 @@ Här kan man köpa TFA Dostmann AirCO2ntrol mini enligt Pricerunner:
 * <https://www.pricerunner.se/pl/345-5201699/Elverktyg/TFA-AirControl-Mini-CO2-priser>
 
 TFA Dostmann AirCO2ntrol Coach:
-* <https://www.pricerunner.se/pl/590-3200141055/Termometrar-Vaederstationer/TFA-Dostmann-31.5009.02-priser
+* <https://www.pricerunner.se/pl/590-3200141055/Termometrar-Vaederstationer/TFA-Dostmann-31.5009.02-priser>
 (coach finns också på Amazon.se)
 
 ![Bild från https://nousaerons.fr/aero-score/](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/nous.png)
