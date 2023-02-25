@@ -32,9 +32,11 @@ Skillnaden mellan intern stabil kalibrering (TFA Dostmann mini, högst upp), & e
 FB-CO2 är bra på andra sätt, batteri, Wi-Fi och Tuya IoT, men måste vädras varje dygn!
 
 
-## Jag vill nörda lite och posta mätningar på webben
+## Jag vill posta mätningar på webben
 
-Ta en titt här t ex: <https://github.com/co2koll/tfa-airco2ntrol-mini>
+Det finns några sajter som publicerar mätningar på karta. Men oklart hur uppdaterade mätningarna är.
+
+FÖr en ren gör-det-själv-lösning med att publicera ett diagram på Mastodon, se: Ta en titt här t ex: <https://github.com/co2koll/tfa-airco2ntrol-mini>
 
 ## Jag är totalnörd och vill bygga ihop prylar
 
