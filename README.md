@@ -28,7 +28,7 @@ Det finns många billiga CO2-mätare som måste kalibrera om sig varje eller var
 ![TFA mini, högst upp, Moes FB-CO2, nedanför](https://raw.githubusercontent.com/co2koll/co2koll.github.io/master/kalib.jpeg)
 
 
-Skillnaden mellan intern stabil kalibrering (TFA Dostmann mini, högst upp), & en som bara antar att 400 ppm nås en gång om dygnet i rummet & kalibrerar om sig hej vilt (Moes FB-CO2, nedanför). Båda ~800kr.
+Det finns 3 gånger mer utandningsluft i lokalen än vad den undre koldioxidmätaren visar. Problemet för den undre mätaren, en Moes FB-CO2, är att den behöver genomventilering varje dygn för att inte tappa sin orientering om hur mycket koldioxid som finns i luften. Den övre koldioxidmätaren, en TFA Dostmann mini, har intern stabil kalibrering. Båda kostar runt 800kr.
 FB-CO2 är bra på andra sätt, batteri, Wi-Fi och Tuya IoT, men måste vädras varje dygn!
 
 
