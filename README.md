@@ -1,5 +1,3 @@
-# co2koll
-
 Roller
 
 ## Jag vill bara ha en bra CO2-meter
