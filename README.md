@@ -34,6 +34,8 @@ FB-CO2 är bra på andra sätt, batteri, Wi-Fi och Tuya IoT, men måste vädras 
 
 Det finns några sajter som publicerar mätningar på karta. Men oklart hur uppdaterade mätningarna är.
 
+* <https://www.breathesafe.xyz>
+
 * <https://co2trackers.com/home>
 
 För att integrera en CO2-mätare som kör Tuya med Home Assistant, se instruktioner här, testat och fungerar med Moes FB-CO2 <https://www.home-assistant.io/integrations/tuya/>
