@@ -42,7 +42,7 @@ Det finns några sajter som publicerar mätningar på karta. Men oklart hur uppd
 
 För att integrera en CO2-mätare som kör Tuya med Home Assistant, se instruktioner här, testat och fungerar med Moes FB-CO2 <https://www.home-assistant.io/integrations/tuya/>
 
-För en ren gör-det-själv-lösning med att publicera ett diagram på Mastodon från en TFA Dostmann Mini, se t ex <https://github.com/co2koll/tfa-airco2ntrol-mini> .
+För en ren gör-det-själv-lösning med att publicera ett diagram på Mastodon via protokollet ActivityPub från en TFA Dostmann Mini CO2-mätare, se t ex <https://github.com/co2koll/tfa-airco2ntrol-mini> . Testat och fungerar. Se exempelkonto på Mastodon här: <https://botsin.space/@coldio>
 
 
 ## Jag är totalnörd och vill bygga ihop prylar
