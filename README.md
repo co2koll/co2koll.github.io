@@ -36,6 +36,8 @@ Det finns några sajter som publicerar mätningar på karta. Men oklart hur uppd
 
 * <https://www.breathesafe.xyz>
 
+* <https://www.ravenapp.org/cleanair>
+
 * <https://co2trackers.com/home>
 
 För att integrera en CO2-mätare som kör Tuya med Home Assistant, se instruktioner här, testat och fungerar med Moes FB-CO2 <https://www.home-assistant.io/integrations/tuya/>
